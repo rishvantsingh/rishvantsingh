@@ -102,8 +102,8 @@
 
   <summary><b>💻 GitHub Profile Stats</b></summary>
   <br/>
-  <p align="center">
-   [![Rishivant's GitHub stats](https://github-readme-stats.vercel.app/api?username=rishvantsingh)](https://github.com/anuraghazra/github-readme-stats)
+ <p align="center">
+    <a href="https://github.com/rishvantsingh/github-readme-stats"><img alt="rishvantsingh's Github Stats" src="https://github-readme-stats.vercel.app/api?username=rishvantsingh&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
 <br/>
 	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rishvantsingh&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="rishvantsingh" height="192px"/>
   <br/>
