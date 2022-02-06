@@ -105,7 +105,6 @@
   <p align="center">
    [![Rishivant's's GitHub stats](https://github-readme-stats.vercel.app/api?username=rishvantsingh)](https://github.com/rishvantsiongha/github-readme-stats)
 <br/>
-  &nbsp;
 	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rishvantsingh&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="rishvantsingh" height="192px"/>
   <br/>
   
