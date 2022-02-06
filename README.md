@@ -1,9 +1,10 @@
-### Hi there 👋
+# Hello, folks!   This is Rishivant Singh  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 
 
 
-- :zap: Hii , I am a enthusiastic devops consultant who tries to learn something new everyday.
+
+- :zap: I am a enthusiastic devops consultant who tries to learn something new everyday.
 -  I have encountered many devops tools till date and will learn more.
 - 🌱 I’m addicted to learning and growing every day
 
