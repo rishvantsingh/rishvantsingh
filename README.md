@@ -6,8 +6,7 @@
 <hr/>
 <h5 align="center">I am a Devops Consultant at Knoldus Inc . I love learning and growing everyday.Anenthusiastic and a social person who loves to take up new challenges and learn new skills. I love meeting new people, exchanging ideas and spreading knowledge and positivity.</h4>
 <br>
-
-	![](https://komarev.com/ghpvc/?username=rishvantsingh&label=PROFILE+VIEWS)
+![](https://komarev.com/ghpvc/?username=rishvantsingh&label=PROFILE+VIEWS)
 	
 
 
@@ -73,8 +72,6 @@
     <a href="#"><img alt="JetBrain" src="https://img.shields.io/badge/jetbrains-%23000000.svg?style=plastic&logo=jetbrains&logoColor=white" /></a>
   &emsp;
  
-    <a href="#"><img alt="Eclipse" src="https://img.shields.io/badge/eclipse%20ide-%232C2255.svg?&style=plastic&logo=eclipse%20ide&logoColor=white" /></a>
-	 &emsp;
 </p>
 
 
