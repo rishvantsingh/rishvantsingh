@@ -16,3 +16,5 @@
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rishvantsingh)](https://github.com/rishvantsingh/github-readme-stats)
+
+<img align="center" src="https://camo.githubusercontent.com/fa64e1f6518df72bd4856d06d19b0d255dbe88a848573103a070e17b6cffd7ac/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d72697368696b756d6172726179267468656d653d6461726b" alt="rishvantsingh" data-canonical-src="https://github-readme-streak-stats.herokuapp.com/?user=rishvantsingh&amp;theme=dark" style="max-width: 100%;">
