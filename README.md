@@ -1,6 +1,6 @@
 # Hello, folks!   This is Rishivant Singh  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-<img src="https://github.com/Ileriayo/ileriayo/raw/master/images/header.gif" alt="header" style="max-width: 100%;">
+
 
 ![](https://komarev.com/ghpvc/?username=rishvantsingh&color=blueviolet)
 
