@@ -8,9 +8,7 @@
 <br>
 <p align="center"> 
 	<img src="https://komarev.com/ghpvc/?username=rishvantsinghe%20views&color=0e75b6&style=plastic" alt="rishvantsingh" /> 
-	<a href = "https://commits.top/india.html target="_blank">
-		<img src="https://enfsgag3ayy6w9q.m.pipedream.net/&style=plastic" alt="rishvantsingh" target="_blank"/> 
-	</a>
+	
 </p>
 
 ## 🔥 Streak Stats
