@@ -9,5 +9,5 @@
 - :earth_africa: I am currently sharing a little bit of my knowledge to the world through my blogs
 -  You can find my blog over here [Rishivant singh's Blogs:](https://blog.knoldus.com/author/rishivantsingh/)
 - 📫 How to find me: 
-  - :office: [LinkedIn](www.linkedin.com/in/rishivantsingh)
+  - :office: [LinkedIn](www.linkedin.com/in/rishivantsingh/)
   
