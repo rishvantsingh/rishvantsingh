@@ -42,7 +42,5 @@
  <a href="https://eddiehubcommunity.github.io/awesome-github-profiles/" target="_blank" rel="noopener noreferrer">
     <img src="https://forthebadge.com/images/badges/check-it-out.svg" />
  </a>
-  <a href="https://github.com/EddieHubCommunity" target="_blank" rel="noopener noreferrer">
-    <img src="https://forthebadge.com/images/badges/built-by-Rishi.svg" />
- </a>
+  
 </p>
