@@ -9,6 +9,7 @@
 - 🌱 I’m addicted to learning and growing every day
 
 
+
   
   [![Rishivant's  github stats](https://github-readme-stats.vercel.app/api?username=rishvantsingh&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
   
@@ -21,6 +22,8 @@
 
 
 - 📫 <b> Connect with me : </b>
-  - :office: [LinkedIn](https://www.linkedin.com/in/rishivantsingh/)
+  - <a href=”https://www.linkedin.com/in/rishivantsingh/"> ![alt text](https://img.shields.io/badge/-LinkedIn-0e76a8?style=plastic&logo=linkedIn)</a>
+  
 
-![](https://img.shields.io/badge/<WORD_ON_LEFT>-<WORD_ON_RIGHT>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+
+
