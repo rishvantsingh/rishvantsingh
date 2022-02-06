@@ -6,7 +6,7 @@
 <hr/>
 <h5 align="center">I am a Devops Consultant at Knoldus Inc . I love learning and growing everyday.Anenthusiastic and a social person who loves to take up new challenges and learn new skills. I love meeting new people, exchanging ideas and spreading knowledge and positivity.</h4>
 <br>
-![](https://komarev.com/ghpvc/?username=rishvantsingh&label=PROFILE+VIEWS)
+
 	
 
 
