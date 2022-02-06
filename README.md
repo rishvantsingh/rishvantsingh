@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-**rishvantsingh/rishvantsingh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 - :zap: Hii , I am a enthusiastic devops consultant who tries to learn something new everyday.
 -  I have encountered many devops tools till date and will learn more.
