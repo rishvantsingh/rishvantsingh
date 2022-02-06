@@ -7,9 +7,9 @@
 <h5 align="center">I am a Devops Consultant at Knoldus Inc . I love learning and growing everyday.Anenthusiastic and a social person who loves to take up new challenges and learn new skills. I love meeting new people, exchanging ideas and spreading knowledge and positivity.</h4>
 <br>
 <p align="center"> 
-	<img src="https://komarev.com/ghpvc/?username=rishvantsinghe%20views&color=0e75b6&style=plastic" alt="7oSkaaa" /> 
+	<img src="https://komarev.com/ghpvc/?username=rishvantsinghe%20views&color=0e75b6&style=plastic" alt="rishvantsingh" /> 
 	<a href = "https://commits.top/india.html target="_blank">
-		<img src="https://enfsgag3ayy6w9q.m.pipedream.net/&style=plastic" alt="7oSkaaa" target="_blank"/> 
+		<img src="https://enfsgag3ayy6w9q.m.pipedream.net/&style=plastic" alt="rishvantsingh" target="_blank"/> 
 	</a>
 </p>
 
