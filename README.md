@@ -9,7 +9,7 @@
 - :earth_africa: I am currently sharing a little bit of my knowledge to the world through my blogs
 -  You can find my blog over here [Rishivant singh's Blogs:](https://blog.knoldus.com/author/rishivantsingh/)
 - 📫 How to find me: 
-  - :office: [LinkedIn](www.linkedin.com/in/rishivantsingh/)
+  - :office: [LinkedIn](https://www.linkedin.com/in/rishivantsingh/)
   
   [![Rishivant's  github stats](https://github-readme-stats.vercel.app/api?username=rishvantsingh&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
   
